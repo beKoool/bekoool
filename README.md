@@ -1,6 +1,5 @@
 ### Hi there, Its TheCoolDev 👋
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on my Next Game `Doko`
 - 🌱 I’m currently learning Unity, Blender, and more.
@@ -10,6 +9,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: https://thecooldev.netlify.app
 <!-- - 😄 Pronouns: ... -->
 - ⚡ Fun fact: I am cool.
+
+###
 
 <img src = "https://img.shields.io/badge/-BLENDER-F5792A?logo=blender&logoColor=fff"> <img src = "https://img.shields.io/badge/-UNITY-000000?logo=unity&logoColor=fff"> <img src = "https://img.shields.io/badge/-HTML-e34f26?logo=html5&logoColor=fff"> <img src = "https://img.shields.io/badge/-PHOTOSHOP-31A8FF?logo=photoshop&logoColor=fff">
 
