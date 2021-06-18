@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+<img src = "https://img.shields.io/badge/-BLENDER-F5792A?logo=blender&logoColor=fff">
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=thecoolgdev&count_private=true&show_icons=true&theme=radical)
 
