@@ -1,18 +1,15 @@
-### Hi there 👋
-
-
-**TheCoolGDev/thecoolgdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi there, Its TheCoolDev 👋
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently working on my Next Game `Doko`
+- 🌱 I’m currently learning Unity, Blender, and more.
+- 👯 I’m looking to collaborate other game developers.
+<!-- - 🤔 I’m looking for help with ... -->
+<!-- - 💬 Ask me about ... -->
+- 📫 How to reach me: https://thecooldev.netlify.app
+<!-- - 😄 Pronouns: ... -->
+- ⚡ Fun fact: I am cool.
 
 <img src = "https://img.shields.io/badge/-BLENDER-F5792A?logo=blender&logoColor=fff"> <img src = "https://img.shields.io/badge/-UNITY-000000?logo=unity&logoColor=fff"> <img src = "https://img.shields.io/badge/-HTML-e34f26?logo=html5&logoColor=fff"> <img src = "https://img.shields.io/badge/-PHOTOSHOP-31A8FF?logo=photoshop&logoColor=fff">
 
