@@ -1,9 +1,9 @@
 ### Hi there, Its TheCoolDev 👋
 
 
-- 🔭 I’m currently working on my Next Game `Doko`
-- 🌱 I’m currently learning Unity, Blender, and more.
-- 👯 I’m looking to collaborate other game developers.
+- 🔭 I’m currently working on `Web Dev`
+- 🌱 I’m currently learning Js, Figma, and more.
+- 👯 I’m looking to collaborate other web developers.
 <!-- - 🤔 I’m looking for help with ... -->
 <!-- - 💬 Ask me about ... -->
 - 📫 How to reach me: https://thecooldev.netlify.app
