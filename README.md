@@ -9,7 +9,7 @@
 
 ###
 
-<img src = "https://img.shields.io/badge/-BLENDER-F5792A?logo=blender&logoColor=fff"> <img src = "https://img.shields.io/badge/-UNITY-000000?logo=unity&logoColor=fff"> <img src = "https://img.shields.io/badge/-HTML-e34f26?logo=html5&logoColor=fff"> <img src = "https://img.shields.io/badge/-PHOTOSHOP-31A8FF?logo=photoshop&logoColor=fff"> <img src="https://discordapp.com/api/guilds/[833982660346642472]/widget.png?style=shield" alt="Discord Shield"/>
+<img src = "https://img.shields.io/badge/-BLENDER-F5792A?logo=blender&logoColor=fff"> <img src = "https://img.shields.io/badge/-UNITY-000000?logo=unity&logoColor=fff"> <img src = "https://img.shields.io/badge/-HTML-e34f26?logo=html5&logoColor=fff"> <img src = "https://img.shields.io/badge/-PHOTOSHOP-31A8FF?logo=photoshop&logoColor=fff"> <img src="https://discordapp.com/api/guilds/833982660346642472/widget.png?style=shield" alt="Discord Shield"/>
 
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=TheCoolGDev&hide_border=true&show_icons=true&theme=onedark)
