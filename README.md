@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on `Graphics design and web dev`
 - 🌱 I’m currently learning Js, Figma, and more.
 - 👯 I’m looking to collaborate other web developers.
-- 📫 How to reach me: https://thecooldev.netlify.app
+- 📫 How to reach me: https://thecooldev.netlify.app or [my discord server](https://discord.gg/GTXDWjj6wS)
 - ⚡ Fun fact: I am cool.
 
 ###
@@ -16,10 +16,8 @@
 
 
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=TheCoolGDev&hide_border=true&show_icons=true&theme=onedark)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=TheCoolGDev&hide_border=true&show_icons=true&theme=onedark) [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=TheCoolGDev&theme=onedark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=THECOOLGDEV&show_icons=true&hide_border=true&theme=onedark)
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=TheCoolGDev&theme=onedark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=THECOOLGDEV&show_icons=true&hide_border=true&theme=onedark) 
 
 
