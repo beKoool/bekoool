@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m currently working on `Graphics design and web dev`
-- 🌱 I’m currently learning Js, Figma, and more.
+- 🌱 I’m currently learning Graphics design mostly using figma and more.
 - 👯 I’m looking to collaborate other web developers.
 - 📫 How to reach me: https://thecooldev.netlify.app or [my discord server](https://discord.gg/GTXDWjj6wS)
 - ⚡ Fun fact: I am cool.
