@@ -1,9 +1,9 @@
 ### Hi there, Its TheCoolDev 👋
 
 
-- 🔭 I’m currently working on `Graphics design and web dev`
-- 🌱 I’m currently learning Graphics design mostly using figma and more.
-- 👯 I’m looking to collaborate other graphics designers.
+- 🔭 I’m currently working on `JavaScript projects`
+- 🌱 I’m currently learning JavaScript and its frameworks.
+- 👯 I’m looking to collaborate other developersgrs.
 - 📫 How to reach me: https://thecooldev.netlify.app or through my discord id which is given below
 - ⚡ Fun fact: I am cool.
 
