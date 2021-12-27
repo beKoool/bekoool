@@ -9,7 +9,7 @@
 
 ###
 
-<img src = "https://img.shields.io/badge/-JAVASCRIPT-yellow?logo=javascript&logoColor=white&textColor=black&style=for-the-badge"> <img src = "https://img.shields.io/badge/-BLENDER-F5792A?logo=blender&logoColor=fff&style=for-the-badge"> <img src = "https://img.shields.io/badge/-UNITY-000000?logo=unity&logoColor=fff&style=for-the-badge"> <img src = "https://img.shields.io/badge/-HTML-e34f26?logo=html5&logoColor=fff&style=for-the-badge"> <img src = "https://img.shields.io/badge/-PHOTOSHOP-31A8FF?logo=photoshop&logoColor=fff&style=for-the-badge"> ![](https://dcbadge.vercel.app/api/shield/778832929186906123?style=for-the-badge)
+<img src = "https://img.shields.io/badge/-figma-red?logo=figma&logoColor=white&black&style=for-the-badge"> <img src = "https://img.shields.io/badge/-JAVASCRIPT-yellow?style=for-the-badge"> <img src = "https://img.shields.io/badge/-BLENDER-F5792A?logo=blender&logoColor=fff&style=for-the-badge"> <img src = "https://img.shields.io/badge/-UNITY-000000?logo=unity&logoColor=fff&style=for-the-badge"> <img src = "https://img.shields.io/badge/-HTML-e34f26?logo=html5&logoColor=fff&style=for-the-badge"> <img src = "https://img.shields.io/badge/-PHOTOSHOP-31A8FF?logo=photoshop&logoColor=fff&style=for-the-badge"> ![](https://dcbadge.vercel.app/api/shield/778832929186906123?style=for-the-badge)
 
 
 [![Join our Discord server!](https://invidget.switchblade.xyz/RPC9PNJrSt)](http://discord.gg/RPC9PNJrSt)
