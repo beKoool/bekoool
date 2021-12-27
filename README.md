@@ -1,4 +1,4 @@
-### Hi there, Its TheCoolDev 👋
+# Hi there, Its TheCoolDev 👋
 
 
 - 🔭 I’m currently working on `JavaScript projects`
