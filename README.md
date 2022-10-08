@@ -18,6 +18,4 @@
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=TheCoolGDev&hide_border=true&show_icons=true&theme=onedark) [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=TheCoolGDev&theme=onedark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=THECOOLGDEV&show_icons=true&hide_border=true&theme=onedark) 
-
-
+[![@thecooldev's Holopin board](https://holopin.io/api/user/board?user=thecooldev)](https://holopin.io/@thecooldev)
