@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning Javascript and its frameworks.
 - 👯 I’m looking to collaborate with other js developers.
 - 📫 How to reach me: https://thecooldev.netlify.app or through my discord id which is given below
-- ⚡ Fun fact: Earth is not flat 🤣
+- ⚡ Fun fact: JavaScript took just 10 days to develop.😲
 
 ###
 
