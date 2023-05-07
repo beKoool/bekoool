@@ -1,9 +1,9 @@
 # Hi there, Its TheCoolDev 👋
 
 
-- 🔭 I’m currently working on `JavaScript projects`
-- 🌱 I’m currently learning Javascript and its frameworks.
-- 👯 I’m looking to collaborate with other js developers.
+- 🔭 I’m currently working on [`HTMLTube`](https://github.com/TheCoolGDev/htmltube)
+- 🌱 I’m currently learning Frontend Development and Graphic Designing.
+- 👯 I’m looking to collaborate with other web developers and designers.
 - 📫 How to reach me: https://thecooldev.netlify.app or through my discord id which is given below
 - ⚡ Fun fact: JavaScript took just 10 days to develop.😲
 
