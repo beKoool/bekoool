@@ -18,14 +18,14 @@
 
 <!-- ![Github Stats](https://github-readme-stats.vercel.app/api?username=TheCoolGDev&hide_border=true&show_icons=true&theme=onedark)  -->
 <!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=TheCoolGDev&theme=onedark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) -->
-[![GitHub Streak](https://streak-stats.demolab.com?user=thecoolgdev&theme=github-dark-blue&border_radius=10&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=thecoolgdev&theme=github-dark-blue&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 <!-- 
 [![@thecooldev's Holopin board](https://holopin.io/api/user/board?user=thecooldev)](https://holopin.io/@thecooldev)
  -->
  
  
 ## 🐦 Latest Tweet
-[![](https://gtce.itsvg.in/api?username=thecooldev_&theme=github_dark)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
+[![](https://gtce.itsvg.in/api?username=thecooldev_&theme=github_dark&border=false)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
 
 
 
