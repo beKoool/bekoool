@@ -1,11 +1,10 @@
-# Hi there, Its TheCoolDev 👋
+# Hi there, Its beKool.sh 👋
 
 
-- 🔭 I’m currently working on [`HTMLTube`](https://github.com/TheCoolGDev/htmltube)
-- 🌱 I’m currently learning Frontend Development and Graphic Designing.
-- 👯 I’m looking to collaborate with other web developers and designers.
-- 📫 How to reach me: https://thecooldev.netlify.app or through my discord id which is given below
-- ⚡ Fun fact: JavaScript took just 10 days to develop.😲
+- 🔭 I’m currently working on [`HTMLTube`](https://github.com/beKoool/htmltube)
+- 🌱 I’m currently learning Graphic Designing.
+- 👯 I’m looking to collaborate with other graphic designers.
+- 📫 How to reach me: Through my discord id which is given below
 
 ###
 
@@ -18,14 +17,11 @@
 
 <!-- ![Github Stats](https://github-readme-stats.vercel.app/api?username=TheCoolGDev&hide_border=true&show_icons=true&theme=onedark)  -->
 <!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=TheCoolGDev&theme=onedark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) -->
-[![GitHub Streak](https://streak-stats.demolab.com?user=thecoolgdev&theme=github-dark-blue&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=bekoool&theme=github-dark-blue&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 <!-- 
 [![@thecooldev's Holopin board](https://holopin.io/api/user/board?user=thecooldev)](https://holopin.io/@thecooldev)
  -->
- 
- 
-## 🐦 Latest Tweet
-[![](https://gtce.itsvg.in/api?username=thecooldev_&theme=github_dark&border=false)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
+
 
 
 
