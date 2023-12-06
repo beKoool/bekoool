@@ -13,7 +13,7 @@ A teenager who loves to learn new things everyday!
 
 ## Skills
 
-<img src = "https://img.shields.io/badge/-UNITY-000000?logo=unity&logoColor=fff"> <img src = "https://img.shields.io/badge/-figma-red?logo=figma&logoColor=white&black"> <img src = "https://img.shields.io/badge/-JAVASCRIPT-grey?logo=javascript"> <img src = "https://img.shields.io/badge/-BLENDER-F5792A?logo=blender&logoColor=fff">  <img src = "https://img.shields.io/badge/-HTML-e34f26?logo=html5&logoColor=fff"> ![](https://dcbadge.vercel.app/api/shield/778832929186906123?style=flat)
+<img src = "https://img.shields.io/badge/-UNITY-000000?logo=unity&logoColor=fff"> <img src = "https://img.shields.io/badge/-figma-red?logo=figma&logoColor=white&black"> <img src = "https://img.shields.io/badge/-JAVASCRIPT-grey?logo=javascript">  <img src = "https://img.shields.io/badge/-HTML-e34f26?logo=html5&logoColor=fff">  <img src = "https://img.shields.io/badge/-CSS-264de4?logo=css3&logoColor=fff"> <img src = "https://img.shields.io/badge/-BLENDER-F5792A?logo=blender&logoColor=fff">  ![](https://dcbadge.vercel.app/api/shield/778832929186906123?style=flat)
 
 <!-- <img src = "https://img.shields.io/badge/-UNITY-000000?logo=unity&logoColor=fff&style=for-the-badge"> <img src = "https://img.shields.io/badge/-figma-red?logo=figma&logoColor=white&black&style=for-the-badge"> <img src = "https://img.shields.io/badge/-JAVASCRIPT-yellow?style=for-the-badge"> <img src = "https://img.shields.io/badge/-BLENDER-F5792A?logo=blender&logoColor=fff&style=for-the-badge">  <img src = "https://img.shields.io/badge/-HTML-e34f26?logo=html5&logoColor=fff&style=for-the-badge"> ![](https://dcbadge.vercel.app/api/shield/778832929186906123?style=for-the-badge) -->
 
