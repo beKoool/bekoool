@@ -7,6 +7,7 @@ A teenager who loves to learn new things everyday!
 ## Projects
 
 + **[Sastohost](https://bekoool.github.io/sastohost/)** - Website for [Sastohost](https://sastohost.net).
++ **[MyPdfs](https://mypdfs.netlify.app)** - Website showcasing my assignments of various subjects ( in pdf form ).
 + **[HTMLTube](https://htmltube.netlify.app/)** - A Simple Youtube Clone, currently in development.
 + **[Rock Paper Scissors](https://github.com/beKoool/Rock-Paper-Scissors)** - A simple rock paper scissors game made using node.js
 
